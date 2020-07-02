@@ -20,7 +20,14 @@ This profiles have a mix between my Profiles and Chris Warkocki (https://github.
 
 #### Cura Folder ####
 
-Coom soon
+Contem os Profiles para os filamentos PLA e PETG.
+
+Contains Profiles for PLA and PETG Filaments (Cooming soon)
+
+ ```
+ 	PLA - \Cura\Ops3d-Pretty-PLA-0.15-TreeSupport.curaprofile
+ ```
+
 
 #### Simplify3D Folder ####
 
