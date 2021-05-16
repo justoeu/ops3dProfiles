@@ -14,7 +14,7 @@ This profiles have a mix between my Profiles and Chris Warkocki (https://github.
 
 *OlderProfiles
  ```
- 	PLA - \PrusaSlicer\olderProfiles\Ops3DProfile-PLA-v1.0.ini
+  PLA - \PrusaSlicer\olderProfiles\Ops3DProfile-PLA-v1.0.ini
   PLA - \PrusaSlicer\olderProfiles\Ops3DProfile-PLA-v2.0.ini
   PLA - \PrusaSlicer\olderProfiles\Ops3DProfile-PLA-v2.1.ini
   PLA - \PrusaSlicer\olderProfiles\Ops3DProfile-PLA-v2.2-0.15mm.ini
@@ -22,15 +22,15 @@ This profiles have a mix between my Profiles and Chris Warkocki (https://github.
 
 *2.3.0
  ```
- 	PLA Bundle - \PrusaSlicer\2.3.0\Bundle Config\Ops3d-BundleConfig.ini
- 	PLA - \PrusaSlicer\2.3.0\-> A lot of files and Configs (0.08, 0.12, 0.15, 0.2, vaseMode, etc)
- 	PETG - \PrusaSlicer\2.3.0\PETG\PETG-v3.0-0.25mm.ini
+  PLA Bundle - \PrusaSlicer\2.3.0\Bundle Config\Ops3d-BundleConfig.ini
+  PLA - \PrusaSlicer\2.3.0\-> A lot of files and Configs (0.08, 0.12, 0.15, 0.2, vaseMode, etc)
+  PETG - \PrusaSlicer\2.3.0\PETG\PETG-v3.0-0.25mm.ini
  ```
 
 *2.3.1
  ```
- 	PLA BMG Bundle - \PrusaSlicer\2.3.1\BMG\PLA\Ops3D-0.2_bundle.ini
- 	PLA STOCK Bundle - \PrusaSlicer\2.3.1\Stock\PLA\Ops3D-02-base_config_bundle.ini
+  PLA BMG Bundle - \PrusaSlicer\2.3.1\BMG\PLA\Ops3D-0.2_bundle.ini
+  PLA STOCK Bundle - \PrusaSlicer\2.3.1\Stock\PLA\Ops3D-02-base_config_bundle.ini
   PETG - Comming Soon (Tests Mode)
  ```
 
@@ -41,7 +41,8 @@ Contem os Profiles para os filamentos PLA e PETG.
 Contains Profiles for PLA and PETG Filaments (Cooming soon)
 
  ```
- 	PLA - \Cura\Ops3d-Pretty-PLA-0.15-TreeSupport.curaprofile
+  PLA - \Cura\Ops3d-Pretty-PLA-0.15-TreeSupport.curaprofile
+  PETG - Comming Soon
  ```
 
 
@@ -50,5 +51,6 @@ Contains Profiles for PLA and PETG Filaments (Cooming soon)
 Contains Profiles for PLA
 
 ```
- PLA - \Simplify\MK3S - Ops3D.fff
+  PLA - \Simplify\MK3S - Ops3D.fff
+  PETG - Comming Soon
 ```
