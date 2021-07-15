@@ -34,6 +34,12 @@ This profiles have a mix between my Profiles and Chris Warkocki (https://github.
   PETG - Comming Soon (Tests Mode)
  ```
 
+*2.3.2
+ ```
+  (PLA + PETG + ABS) Bundle - \PrusaSlicer\2.3.2\Bundle\Ops3D-0.3_bundle.ini
+ ```
+
+
 #### Cura Folder ####
 
 Contem os Profiles para os filamentos PLA e PETG.
