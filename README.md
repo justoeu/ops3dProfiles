@@ -54,3 +54,14 @@ Contains Profiles for PLA
   PLA - \Simplify\MK3S - Ops3D.fff
   PETG - Comming Soon
 ```
+
+
+#### Super Slicer Folder ####
+
+Contains Profiles for PLA
+
+```
+  PLA - \SuperSlicer\Bundle\2.3.5x\SuperSlicer_config_bundle.ini
+  PETG - Comming Soon
+```
+
